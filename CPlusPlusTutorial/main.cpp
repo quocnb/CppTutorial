@@ -8,8 +8,12 @@
 
 #include <iostream>
 
+#include "Chap02/chap_02_example.hpp"
+
+using namespace std;
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+//    chap01Example();
+    chap02Example();
     return 0;
 }
